@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![AWS Certified Cloud Solutions Architect - Associate](AWS Certified Solutions Architect - Associate certificate.pdf)
+![AWS Certified Cloud Solutions Architect - Associate](AWS-Certified-Solutions-Architect-Associate-certificate.png)
 [![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/58edcf8f-a336-480c-9b4e-6d84a8b72d9d.jpeg?v=1793687312)](https://www.boot.dev/certificates/58edcf8f-a336-480c-9b4e-6d84a8b72d9d)
